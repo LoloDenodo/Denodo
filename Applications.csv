@@ -1,0 +1,11 @@
+ID;NomCommercial;NomFonctionnel;Departement;Editeur;Description
+14001;TalentSoft;Gestion des talents;RH;TalentSoft;Application de gestion des talents et de développement des compétences des employés.
+14002;PeopleDoc;Gestion administrative RH;RH;PeopleDoc;Application de gestion administrative des ressources humaines, des dossiers employés et des processus RH.
+14003;Sage Paie;Gestion de la paie;Finance;Sage;Application de gestion de la paie et des déclarations sociales.
+14004;SAP FI;Gestion financière;Finance;SAP;Application de gestion financière et comptable.
+14005;ServiceNow;Gestion des services informatiques;Direction Informatique;ServiceNow;Application de gestion des services informatiques, des demandes et des incidents.
+14006;Salesforce;Gestion de la relation client;CRM;Salesforce;Application de gestion de la relation client, des ventes et du marketing.
+14007;Jira;Gestion de projets Agile;Direction Informatique;Atlassian;Application de gestion de projets Agile, des tâches et des sprints.
+14008;Concur;Gestion des frais professionnels;Finance;SAP;Application de gestion des frais professionnels, des notes de frais et des remboursements.
+14009;Workday;Gestion du capital humain;RH;Workday;Application de gestion du capital humain, des talents, des rémunérations et des avantages sociaux.
+14010;Zendesk;Gestion de la relation client;CRM;Zendesk;Application de gestion de la relation client, des tickets et des interactions.
