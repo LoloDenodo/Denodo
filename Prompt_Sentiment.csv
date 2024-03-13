@@ -1,1 +1,1 @@
-: Ce texte concerne l'avis donnée par un employé d'une entreprise. Je veux que tu l'analyses et que tu me dises à quelle catégorie il appartient. Les catégories sont : positif, négatif, neutre, inclassable. Affiche moi le résultat sur un seul charactère: +,-,=,?. 
+: concerne une application interne dans une entreprise. Je veux que tu l'analyses et que tu me dises à quelle catégorie il appartient. Les catégories sont : positif, négatif, neutre, inclassable. Affiche le résultat de cette façon :1,2,3 ou 4. je veux que la reponse ne depasse jamais strictement 1 mot.
